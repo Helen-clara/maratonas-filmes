@@ -13,5 +13,9 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+minhas-sugestoes
 - [ ] Harry Potter
 - [ ] Percy Jackson
+- [ ] Castelo animado
+- [ ] meu amigo totoro
+main
